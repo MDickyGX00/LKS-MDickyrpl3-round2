@@ -87,7 +87,7 @@ body {
 
 .home {
   background-size: cover;
-  min-height: 50vh;
+  min-height:25vh;
   padding-top: 8rem;
   padding-bottom: 2rem;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
